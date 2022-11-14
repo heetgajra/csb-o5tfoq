@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://heetgajra.github.io/csb-o5tfoq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://heetgajra.github.io/csb-o5tfoq/static/js/main.6392d788.chunk.js",
+    "main.js.map": "https://heetgajra.github.io/csb-o5tfoq/static/js/main.6392d788.chunk.js.map",
+    "runtime-main.js": "https://heetgajra.github.io/csb-o5tfoq/static/js/runtime-main.f32539bd.js",
+    "runtime-main.js.map": "https://heetgajra.github.io/csb-o5tfoq/static/js/runtime-main.f32539bd.js.map",
+    "static/js/2.9268aec9.chunk.js": "https://heetgajra.github.io/csb-o5tfoq/static/js/2.9268aec9.chunk.js",
+    "static/js/2.9268aec9.chunk.js.map": "https://heetgajra.github.io/csb-o5tfoq/static/js/2.9268aec9.chunk.js.map",
+    "index.html": "https://heetgajra.github.io/csb-o5tfoq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://heetgajra.github.io/csb-o5tfoq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9268aec9.chunk.js.LICENSE.txt": "https://heetgajra.github.io/csb-o5tfoq/static/js/2.9268aec9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f32539bd.js",
+    "static/js/2.9268aec9.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6392d788.chunk.js"
+  ]
+}
